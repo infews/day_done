@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["dwfrank@gmail.com"]
   spec.summary       = %q{Archive Folding Text @done tasks to DayOne}
   spec.description   = ""
-  spec.homepage      = ""
+  spec.homepage      = "http://github.com/infews/day_done"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
